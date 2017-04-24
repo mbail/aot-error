@@ -1,0 +1,112 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "aot-error-dep@git+https://github.com/mbail/aot-error-dep.git",
+        "scope": null,
+        "escapedName": "aot-error-dep",
+        "name": "aot-error-dep",
+        "rawSpec": "git+https://github.com/mbail/aot-error-dep.git",
+        "spec": "git+https://github.com/mbail/aot-error-dep.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:mbail/aot-error-dep.git",
+          "sshUrl": "git+ssh://git@github.com/mbail/aot-error-dep.git",
+          "httpsUrl": "git+https://github.com/mbail/aot-error-dep.git",
+          "gitUrl": "git://github.com/mbail/aot-error-dep.git",
+          "shortcut": "github:mbail/aot-error-dep",
+          "directUrl": "https://raw.githubusercontent.com/mbail/aot-error-dep/master/package.json"
+        }
+      },
+      "/home/muriel/Workspace/aot-error"
+    ]
+  ],
+  "_from": "git+https://github.com/mbail/aot-error-dep.git",
+  "_id": "aot-error-dep@0.0.0",
+  "_inCache": true,
+  "_location": "/aot-error-dep",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "aot-error-dep@git+https://github.com/mbail/aot-error-dep.git",
+    "scope": null,
+    "escapedName": "aot-error-dep",
+    "name": "aot-error-dep",
+    "rawSpec": "git+https://github.com/mbail/aot-error-dep.git",
+    "spec": "git+https://github.com/mbail/aot-error-dep.git",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:mbail/aot-error-dep.git",
+      "sshUrl": "git+ssh://git@github.com/mbail/aot-error-dep.git",
+      "httpsUrl": "git+https://github.com/mbail/aot-error-dep.git",
+      "gitUrl": "git://github.com/mbail/aot-error-dep.git",
+      "shortcut": "github:mbail/aot-error-dep",
+      "directUrl": "https://raw.githubusercontent.com/mbail/aot-error-dep/master/package.json"
+    }
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/mbail/aot-error-dep.git#2652ce1612df90e49560a48855e276d04eb01c5e",
+  "_shasum": "807204625dcb8031f28e4d1715a24527fc554584",
+  "_shrinkwrap": null,
+  "_spec": "aot-error-dep@git+https://github.com/mbail/aot-error-dep.git",
+  "_where": "/home/muriel/Workspace/aot-error",
+  "bugs": {
+    "url": "https://github.com/mbail/aot-error-dep/issues"
+  },
+  "dependencies": {
+    "@angular/common": "^4.0.0",
+    "@angular/compiler": "^4.0.0",
+    "@angular/core": "^4.0.0",
+    "@angular/forms": "^4.0.0",
+    "@angular/http": "^4.0.0",
+    "@angular/platform-browser": "^4.0.0",
+    "@angular/platform-browser-dynamic": "^4.0.0",
+    "@angular/router": "^4.0.0",
+    "core-js": "^2.4.1",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.",
+  "devDependencies": {
+    "@angular/cli": "1.0.0",
+    "@angular/compiler-cli": "^4.0.0",
+    "@types/jasmine": "2.5.38",
+    "@types/node": "~6.0.60",
+    "codelyzer": "~2.0.0",
+    "jasmine-core": "~2.5.2",
+    "jasmine-spec-reporter": "~3.2.0",
+    "karma": "~1.4.1",
+    "karma-chrome-launcher": "~2.0.0",
+    "karma-cli": "~1.0.1",
+    "karma-coverage-istanbul-reporter": "^0.2.0",
+    "karma-jasmine": "~1.1.0",
+    "karma-jasmine-html-reporter": "^0.2.2",
+    "protractor": "~5.1.0",
+    "ts-node": "~2.0.0",
+    "tslint": "~4.5.0",
+    "typescript": "~2.2.0"
+  },
+  "gitHead": "2652ce1612df90e49560a48855e276d04eb01c5e",
+  "homepage": "https://github.com/mbail/aot-error-dep#readme",
+  "license": "MIT",
+  "name": "aot-error-dep",
+  "optionalDependencies": {},
+  "readme": "# AotErrorDep\n\nThis project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.\n\n## Development server\n\nRun `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.\n\n## Code scaffolding\n\nRun `ng generate component component-name` to generate a new component. You can also use `ng generate directive/pipe/service/class/module`.\n\n## Build\n\nRun `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.\n\n## Running unit tests\n\nRun `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).\n\n## Running end-to-end tests\n\nRun `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).\nBefore running the tests make sure you are serving the app via `ng serve`.\n\n## Further help\n\nTo get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbail/aot-error-dep.git"
+  },
+  "scripts": {
+    "build": "ng build",
+    "e2e": "ng e2e",
+    "lint": "ng lint",
+    "ng": "ng",
+    "start": "ng serve",
+    "test": "ng test"
+  },
+  "version": "0.0.0"
+}
